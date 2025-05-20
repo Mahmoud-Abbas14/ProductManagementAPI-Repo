@@ -1,4 +1,4 @@
-package com.abbas.ProductManagementAPI;
+package com.abbas.ProductManagementAPI.controller;
 
 
 import java.io.IOException;
